@@ -30,4 +30,4 @@
 
 Скриншоты интерфейса
 ------------
-![alt text](https://github.com/putenstsar/EX/blob/P2/scrn1.png)
+![alt text](https://github.com/putentsar/EX/blob/P2/scrn1.png)
